@@ -29,6 +29,8 @@ We started with a solid foundation provided by the original face cropping code (
 
 Through these optimizations, we not only improved the speed of video processing but also enhanced the quality and flexibility of the output video. I hope these enhancements will be helpful to you when dealing with video face detection and cropping tasks. If you have any questions or want to discuss further, please feel free to leave a comment below.
 
+Taking a 1080P video as an example, the processing speed can reach 300 FPS (A 40), which is about 100 times faster than the original Fomm speed of approximately 3 FPS.
+
 
 
 # **优化视频人脸定位与裁剪：提升性能与输出质量**
@@ -62,3 +64,7 @@ Through these optimizations, we not only improved the speed of video processing 
 ### 结语
 
 通过这些优化，我们不仅提高了视频处理的速度，还提升了输出视频的质量和灵活性。希望这些改进对你处理视频人脸定位与裁剪任务时有所帮助。
+
+### 性能分析
+
+以1080P的视频为例，处理速度可达到300 FPS（A 40），相比较原始的Fomm速度约3FPS，提高了约100倍。
